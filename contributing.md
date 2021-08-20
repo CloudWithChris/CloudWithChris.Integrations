@@ -28,7 +28,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [Code of Conduct](https://github.com/CloudWithChris/CloudWithChris.Integrations/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behaviour to Chris via Twitter, @reddobowen.
+This project and everyone participating in it is governed by the [Code of Conduct](https://github.com/CloudWithChris/CloudWithChris.Integrations/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behaviour to Chris via Twitter, @reddobowen.
 
 ## I Have a Question
 
